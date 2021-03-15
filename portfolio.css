@@ -1,0 +1,76 @@
+body{
+    background-color: #c5b5a6;
+    font-family: 'Prompt', sans-serif;
+}
+div{
+    text-align: center;
+}
+#aomsin_pic{
+    width: 25%;
+    border-radius: 5%;
+}
+#adobe_pic{
+    width: 20%;
+    
+}
+#portpolio{
+    width: 25%;
+    border-radius: 5%;
+}
+#portpolioweb{
+    width: 75.5%;
+    border-radius: 5%;
+}
+h1{
+    background-color: rgb(170, 155, 112);
+    color: rgb(255, 255, 255);
+    font-size: 40pt;
+    font-weight: bold; 
+}
+
+h2{
+    color: #c5b5a6;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.6;
+    font-size: 30pt;
+    font-weight: bold; 
+    text-align:left;  /* สั่ง ตัว head */
+    font-style:italic;
+}
+
+ul{
+    color:  #7e7252;
+    font-size: 20pt;
+    font-weight: bold;  
+    width: 300px;
+    margin:auto;
+
+}
+
+h3{
+    color:  #7e7252;
+    font-size: 30pt;
+    font-weight: bold;
+    font-style:italic;
+}
+
+h4{
+    color:  #000000;
+    font-size: 30pt;
+    font-weight: bold;
+    font-style:italic;
+}
+p{
+    color:  #000000;
+    font-size: 10pt;
+    font-weight: bold;
+    font-style:italic;
+}
+
+
+/* #myid{
+    id
+}
+.myclass{
+    class
+}   
